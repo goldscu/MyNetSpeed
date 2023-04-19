@@ -1,3 +1,5 @@
+# [中文](https://github.com/goldscu/MyNetSpeed/blob/main/README_zh.md)
+
 # My Net Speed
 Used to monitor real-time network speed of mac and iPhone and iPad.
 
