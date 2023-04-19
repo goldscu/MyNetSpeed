@@ -1,7 +1,7 @@
 # [中文](https://github.com/goldscu/MyNetSpeed/blob/main/README_zh.md)
 
 # My Net Speed
-Used to monitor real-time network speed of mac and iPhone and iPad.
+Used to monitor real-time network speed of Mac and iPhone and iPad.
 
 ## User Guide
 * 1 The meaning of different network card names:
