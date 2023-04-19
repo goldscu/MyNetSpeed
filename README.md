@@ -1,17 +1,18 @@
 # My Net Speed
-我的网速：用于实时查看电脑手机网速情况
+Used to monitor real-time network speed of mac and iPhone and iPad.
 
-## 使用帮助
-* 1 各网卡名代表的意思：,
-  - pdp_ip 开头: 移动蜂窝网络,
-  - en 开头: 以太网，网线、Wi-Fi依次排列
-  - awdl 开头: 苹果无线直接链接网络
-  - gif 开头: 软件网络
-  - stf 开头: IPv6转IPv4通道
-  - vmnet 开头: 虚拟网络
-  - utun 开头: vpn网络
-  - bridge 开头: Wi-Fi热点
-  - ap 开头: Wi-Fi热点
-* 2 Mac下，如果通知栏一直弹出“后台项目已添加”的通知，请在命令行执行“sfltool resetbtm”，此命令会重置后台启动权限
+## User Guide
+* 1 The meaning of different network card names:
+  - Starting with pdp_ip: Mobile cellular network
+  - Starting with en: Ethernet, wired and Wi-Fi in order
+  - Starting with awdl: Apple Wireless Direct Link network
+  - Starting with gif: Software network
+  - Starting with stf: IPv6 to IPv4 channel
+  - Starting with vmnet: Virtual network
+  - Starting with utun: VPN network
+  - Starting with bridge: Wi-Fi hotspot
+  - Starting with ap: Wi-Fi hotspot
+* 2 On Mac, if the notification "Background project added" keeps popping up, please execute "sfltool resetbtm" in the command line. This command will reset the background startup permission.
 
-## 欢迎反馈
+## Feedback
+[422868467@qq.com](mailto:422868467@qq.com)
